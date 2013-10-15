@@ -1,0 +1,12 @@
+C:\Documents and Settings\Soós Tamás\my documents\visual studio 2010\Projects\MachineTranslator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Soós Tamás\my documents\visual studio 2010\Projects\MachineTranslator\obj\x86\Debug\MachineTranslator.Properties.Resources.resources
+C:\Documents and Settings\Soós Tamás\my documents\visual studio 2010\Projects\MachineTranslator\obj\x86\Debug\MachineTranslator.View.Dialogs.TMDialog.resources
+C:\Documents and Settings\Soós Tamás\my documents\visual studio 2010\Projects\MachineTranslator\obj\x86\Debug\MachineTranslator.View.TranslatorGUI.resources
+C:\Documents and Settings\Soós Tamás\my documents\visual studio 2010\Projects\MachineTranslator\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Soós Tamás\my documents\visual studio 2010\Projects\MachineTranslator\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Soós Tamás\my documents\visual studio 2010\Projects\MachineTranslator\bin\Debug\sqlite3.dll
+C:\Documents and Settings\Soós Tamás\my documents\visual studio 2010\Projects\MachineTranslator\bin\Debug\MachineTranslator.exe
+C:\Documents and Settings\Soós Tamás\my documents\visual studio 2010\Projects\MachineTranslator\bin\Debug\MachineTranslator.pdb
+C:\Documents and Settings\Soós Tamás\my documents\visual studio 2010\Projects\MachineTranslator\bin\Debug\System.Data.SQLite.dll
+C:\Documents and Settings\Soós Tamás\my documents\visual studio 2010\Projects\MachineTranslator\obj\x86\Debug\MachineTranslator.exe
+C:\Documents and Settings\Soós Tamás\my documents\visual studio 2010\Projects\MachineTranslator\obj\x86\Debug\MachineTranslator.pdb

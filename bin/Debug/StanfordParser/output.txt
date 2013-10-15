@@ -1,0 +1,35 @@
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP do) (RB n't)
+      (VP (VB know)
+        (SBAR
+          (WHNP (WP what))
+          (S
+            (NP (DT the) (NN time))
+            (VP (VBZ is))))))
+    (. .)))
+
+nsubj(know-4, I-1)
+aux(know-4, do-2)
+neg(know-4, n't-3)
+root(ROOT-0, know-4)
+dobj(is-8, what-5)
+det(time-7, the-6)
+nsubj(is-8, time-7)
+ccomp(know-4, is-8)
+
+(ROOT
+  (NP
+    (NP (JJ Happy) (NN birthday))
+    (NP (NNP John))
+    (. !)))
+
+amod(birthday-2, Happy-1)
+root(ROOT-0, birthday-2)
+dep(birthday-2, John-3)
+
+(ROOT
+  (NP (NNP :) (NNP -RRB-)))
+
+
